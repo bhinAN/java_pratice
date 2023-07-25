@@ -24,10 +24,10 @@ public class Basic002 {
 		
 		
 		// [2] : 선언한 배열을 인덱스로 접근하여 값 출력하기
-		System.out.println( scores[0] );			// 0
+		System.out.println( scores[0] );			// 100
 		//System.out.println( scores[-1] );			// 파이썬과 같이 9번인덱스를 가르키지 않음 Err 발생
 		// System.out.println( scores[10] );		// Err
-		System.out.println( scores[s_size-1] );	// 0
+		System.out.println( scores[s_size-1] );	// 90
 	}
 
 }
